@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri|Rammetto+One');
 
 #banner img{
 	width:15%;
@@ -7,11 +6,34 @@
 }
 
 h1 {
-	font-family:'Open Sans', sans-serif;
-	font-size: 100px;
+	font-family:'Rammetto One', cursive;
+	font-size: 80px;
+	text-align:center;
+	color:3EB938;
 }
 
-/* Navbar container */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: 3EB938;
+    color: white;
+    text-align: left;
+	font-family:'Hind Siliguri', sans-serif;
+	font-size: 20px;
+}
+
+#footer_contact_information  {
+	background-color: 3EB938;
+    color: white;
+    text-align: left;
+	font-family:'Hind Siliguri', sans-serif;
+	font-size: 20px;
+}
+	
+
+	/* Navbar container */
 .navbar {
   overflow: hidden;
   background-color: #000E37;
