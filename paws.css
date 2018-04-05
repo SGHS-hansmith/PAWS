@@ -72,6 +72,15 @@ h6 {
 	height:700px;
 }
 
+#main_text_costs img{
+	width:30%;
+	margin-left:10%;
+	margin-right:35%;
+	padding-bottom:10px;
+	height:200px;
+	float:right;
+}
+
 #volunteer img{
 	width:80%;
 	margin-left:10%;
@@ -123,7 +132,11 @@ form {
 	font-size:20px;
 }
 
-.footer {
+ul {
+	font-family:'Hind Siliguri', sans-serif;
+}	
+	
+	.footer {
     position: static;
     left: 0;
     bottom: 0;
